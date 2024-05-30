@@ -443,7 +443,12 @@ ul {
   align-items: baseline;
 }
 
-.container-footer {
+.container-finish {
+  display: flex;
+  align-items: baseline;
+}
+
+.finish-menu {
   margin-right: 120px;
 }
 
